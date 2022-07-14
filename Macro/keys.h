@@ -1,0 +1,16 @@
+
+struct key
+{
+	int f1 = 0x70;
+	int f2 = 0x71;
+	int f3 = 0x72;
+	int f4 = 0x73;
+	int f5 = 0x74;
+	int f6 = 0x75;
+	int f7 = 0x76;
+	int f8 = 0x77;
+	int f9 = 0x78;
+	int f10 = 0x79;
+	int f11 = 0x7A;
+	int f12 = 0x7B;
+};
